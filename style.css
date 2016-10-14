@@ -1,1 +1,37 @@
-fsd'f;s'df;s'd;f
+.price-list td {
+	border-bottom:1px #333333;
+}
+
+.price-list{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.price-list th {
+	font-weight: normal;
+	text-align:center;
+}
+
+.price-list th,
+.price-list td {
+	padding: 5px 10px;
+	text-align:center;
+}
+
+.price-list .price-number{
+text-align:left;	
+font-weight: bold;
+}
+
+.price-list .price-name{
+font-weight: normal;
+text-align:left;
+}
+
+
+.price-list .price-price{
+text-align:right;	
+}
+
+
+ 
